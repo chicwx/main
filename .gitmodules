@@ -1,0 +1,3 @@
+[submodule "submoduleA"]
+	path = submoduleA
+	url = git@github.com:chicwx/submoduleA.git
